@@ -1,0 +1,21 @@
+1.- Las pruebas de Estres ( Stress ) consisten en :
+
+a) Aplicar fuertes picos de carga durante cortos periodos.
+
+b) Aplicar cargas lo más similares posibles a la real durante 1 día o 1 semana.
+
+c) Aplicar de forma continuada una carga por encima de la capacidad del sistema.
+
+d) Ninguna es correcta.
+
+Respuesta: c
+
+
+2.- El límite de las prestaciones quiere decir que...
+
+a) Existe un límite de tráfico de red suficientemente alto que produce una degradación leve en las prestaciones.
+b) Existe un límite de tráfico de red suficientemente bajo que produce una degradación leve en las prestaciones.
+c) Existe un límite de tráfico de red suficientemente bajo que produce una degradación grave en las prestaciones.
+d) Existe un límite de tráfico de red suficientemente alto que produce una degradación grave en las prestaciones.
+
+Respuesta: D.
