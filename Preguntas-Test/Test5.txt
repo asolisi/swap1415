@@ -1,0 +1,13 @@
+1.- La herramienta más apropiada a la hora de comprobar el rendimiento de un servidor o una granja web es:
+a) Apache Benchmark
+b) httperf
+c) JMeter
+d) Depende del contexto, no hay ninguna que sea siempre mejor.
+Respuesta: D
+
+2.- Los tipos de prueba que aplican una carga lo más parecida a la real pero en periodos cortos o durante un día o una semana son, respectivamente:
+a) Carga y Estabilidad.
+b) Carga y Capacidad.
+c) Capacidad y Estabilidad.
+d) Sobrecarga y Estabilidad.
+Respuesta: A

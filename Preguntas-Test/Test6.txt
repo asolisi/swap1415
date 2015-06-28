@@ -1,0 +1,13 @@
+1.- Cuando hablamos de seguridad a nivel físico,¿a qué nos referímos?:
+a) Seguridad de aplicación
+b) Seguridad de acceso
+c) Seguridad del sistema
+d) Seguridad del hardware
+Respuesta: D.
+
+2.- ¿Qué hace el cortafuegos?
+a) Protege el sistema de accesos indebidos.
+b) Corta el fuego.
+c) Funciona como un sistema antiincendios dentro del hardware del pc.
+d) Es un mito en realidad no existe.
+Respuesta: A.

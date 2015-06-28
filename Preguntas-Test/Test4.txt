@@ -1,0 +1,13 @@
+1.- ¿De qué trata el clustering?
+a) Solución basada en la seguridad de servidores web.
+b) Ejecución paralela repartiendo el trabajo entre varias máquinas.
+c) Solución basada en balanceadores de carga.
+d) Ejecución en una sola máquina.
+Repuesta: B
+
+2.- Selecciona la respuesta correcta sobre una Granja web con balanceo de carga:
+a) Mantenimiento complejo
+b) Mejora la seguridad y Mejora la escalabilidad
+c) El usuario recibe del DNS la IP privada del balanceador
+d) Todo el conjunto de servidores aparece como dos solos sistemas
+Respuesta: B

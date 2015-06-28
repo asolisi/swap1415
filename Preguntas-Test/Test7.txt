@@ -1,0 +1,13 @@
+1.- ¿Qué método de almacenamiento o nivel de RAID divide los datos a nivel de bloques y ademas necesita de 3 discos como mínimo para ser implementado?
+a) RAID 0
+b) RAID 1
+c) RAID 2
+d) RAID 5
+Respuesta: D
+
+Si queremos hacer uso de una configuración altamente tolerante a fallos, ¿qué RAID usaría?
+a) 1+0
+b) 0+1+6
+c) 0+1
+d) 0+1+5
+Respuesta: B

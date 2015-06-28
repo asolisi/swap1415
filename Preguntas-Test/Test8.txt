@@ -1,0 +1,13 @@
+1.- En una granja web, para conseguir latencias bajas es recomendable...
+a) Usar discos de estado sólido de alta velocidad para hacer caching.
+b) Tener cuantos más servidores mejor.
+c) Configurar el sistema operativo en modo máxima velocidad.
+d) Adquirir CPU y RAM que funcionen al máximo de su capacidad en todo momento.
+Respuesta: A
+
+2.- Elementos hardware principales de una granja web.
+a) Servidores, Routers y Balanceadores.
+b) Almacenamiento, Balanceadores y Routers.
+c) Conexiones de red, Routers y Servidores.
+d) Servidores, Almacenamiento y Conexiones de red.
+Respuesta: D
