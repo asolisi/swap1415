@@ -1,16 +1,26 @@
-T1 Preguntas test
-
+﻿
 1. ¿Cuál es la mejor solución final para un sitio web mal planificado?
-	a) Reestructurar todo el sistema.
-	b) Parchear el sistema a varios niveles.
-	c) Modificar lo mínimo del sitio web para evitar pérdidas de tiempo y dinero.
-	d) No reestructurar todo el sistema pero sí parte de él.
-	Respuesta correcta: a
+	
+a) Reestructurar todo el sistema.
+	
+b) Parchear el sistema a varios niveles.
+	
+c) Modificar lo mínimo del sitio web para evitar pérdidas de tiempo y dinero.
+	
+d) No reestructurar todo el sistema pero sí parte de él.
+	
+Respuesta correcta: a
+
 
 2. ¿En que partes se divide la estructura para una granja web que escale correctamente?
 	Máquinas dedicadas a ...
-	a) Servicio web.
-	b) Servicios de bases de datos y correo.
-	c) Servicios de bases de datos y de usuarios.
-	d) Las respuestas a) y b) son las correctas.
-	Respuesta correcta: d
+	
+a) Servicio web.
+	
+b) Servicios de bases de datos y correo.
+	
+c) Servicios de bases de datos y de usuarios.
+	
+d) Las respuestas a) y b) son las correctas.
+	
+Respuesta correcta: d

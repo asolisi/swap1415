@@ -1,16 +1,29 @@
-T3 Preguntas test
+﻿
 
 1. ¿Qué problemas puede producir una configuración sin DMZ?
-	a) La no compartición del ancho de banda.
-	b) Asegurar los servidores es más complicado y si uno de ellos se ve comprometido, el resto de recursos puede ser atacado.
-	c) Los servidores pueden ser atacados pero no afecta al resto del sistema.
-	d) Se comparte el ancho de banda de los servidores pero no el de las máquinas de escritorio.
-	Respuesta correcta: b
+	
+a) La no compartición del ancho de banda.
+	
+b) Asegurar los servidores es más complicado y si uno de ellos se ve comprometido, el resto de recursos puede ser atacado.
+	
+c) Los servidores pueden ser atacados pero no afecta al resto del sistema.
+	
+d) Se comparte el ancho de banda de los servidores pero no el de las máquinas de escritorio.
+	
+Respuesta correcta: b
+
+
+
 
 2. ¿Qué ventajas ofrece una configuración doble conexión al fron-rail y back-rail?
-	a) No requiere doble tarjeta de red.
-	b) Ofrece configuración para servidores HTTP,SMTP...pero no ofrece servicios hacia internet.
-	c) Requiere doble tarjeta de red, es adecuado para acceder a internet y ofrece tanto servidores hacia internet y subredes como configuración para servidores.
-	d) No ofrece ninguna ventaja frente a la conexión sólo al front-rail.
-	Respuesta correcta: c
+	
+a) No requiere doble tarjeta de red.
+	
+b) Ofrece configuración para servidores HTTP,SMTP...pero no ofrece servicios hacia internet.
+	
+c) Requiere doble tarjeta de red, es adecuado para acceder a internet y ofrece tanto servidores hacia internet y subredes como configuración para servidores.
+	
+d) No ofrece ninguna ventaja frente a la conexión sólo al front-rail.
+	
+Respuesta correcta: c
 
