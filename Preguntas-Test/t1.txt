@@ -1,0 +1,13 @@
+1. ¿Cual es la ventaja de montar un servidor en una máquina?
+a) Escalabilidad y alta disponibilidad
+b) Las mejoras en software se pueden probar en la máquina de desarrollo antes de pasarlas al servidor de producción
+c) La instalación es rápida y fácil
+d) Todas son incorrectas
+SOLUCION: C
+
+2. ¿Qué es lo primero que falla cuando se monta un servidor web con una sóla máquina?
+a) La fuente de alimentación.
+b) El disco duro.
+c) La memoria RAM.
+d) Ninguna de las 3 anteriores.
+SOLUCION: A
