@@ -1,0 +1,13 @@
+1) Para el tráfico UDP:
+a) el número de conexiones concurrentes no es un factor que afecte, ya que se trata de un protocolo "de conexión".
+b) el número de conexiones concurrentes no es un factor que afecte, ya que se trata de un protocolo "de respuesta".
+c) el número de conexiones concurrentes no es un factor que afecte, ya que se trata de un protocolo "sin conexión".
+d) Ninguna es correcta.
+Respuesta: C
+
+2) A la hora de realizar un benchmark...
+a) Este se debe ejecutar en la misma máquina que la que hace de servidor web
+b) Los resultados de cada herramienta siempre serán iguales
+c) Los resultados de todas las herramientas serán iguales
+d) Ninguna es correcta
+Respuesta: D

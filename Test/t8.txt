@@ -1,0 +1,13 @@
+1. Para determinar los requisitos del sistema puede ayudar...
+a) Estimar el hardware en función de las necesidades de la empresa.
+b) Monitorizar el sistema durante todo el tiempo que esté en uso.
+c) Utilizar un software de monitorización para buscar cuellos de botella en la configuración inicial.
+d) Todas las anteriores son correctas.
+Respuesta correcta: D
+
+2. Para estimar el ancho de banda primero hay que determinar:
+a) El número de clientes que se conectarán al servidor por segundo.
+b) El número de bytes que el cliente enviará al servidor en cada petición.
+c) El número de bytes que el servidor enviará al cliente en cada petición.
+d) Todas son correctas.
+Respuesta correcta: D
